@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Play Music</string>
+    <string name="todo">TODO</string>
+    <string name="views">4.6 K</string>
+    <string name="follow">Follow</string>
+    <string name="album">Avicii - Stories</string>
+    <string name="music">Waiting For Love</string>
+    <string name="progress">3:07</string>
+    <string name="duration">3:50</string>
+</resources>
